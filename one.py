@@ -1,1 +1,2 @@
-print("hellow sanith")
+print("hellow sanih")
+print("hellow punith")
